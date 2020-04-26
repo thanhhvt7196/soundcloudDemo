@@ -1,0 +1,6 @@
+framework module Pods_soundCloudTest {
+  umbrella header "Pods-soundCloudTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
